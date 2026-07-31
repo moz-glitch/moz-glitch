@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./flash.gif" width="100%" alt="banner steampunk"/>
+<img src="./flash.gif" width="100%" style="max-height: 200px; object-fit: cover;" alt="banner steampunk"/>
 
 <h1>⚙️ Javier Armando Sánchez Carrero ⚙️</h1>
 <h3>🔩 Desarrollador Web Full-Stack | Estudiante ADSO 🔩</h3>
