@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./flash.gif" width="1000%" style="height: 400px; object-fit: cover;" alt="banner steampunk"/>
+<img src="./flash.gif" width="100%" style="height: 100px; object-fit: cover;" alt="banner steampunk"/>
 
 <h1>⚙️ Javier Armando Sánchez Carrero ⚙️</h1>
 <h3>🔩 Desarrollador Web Full-Stack | Estudiante ADSO 🔩</h3>
@@ -13,15 +13,24 @@
 
 <br>
 
-<img src="./sq.gif" align="right" width="110" height="110" alt="engranaje decorativo" style="object-fit: cover; margin: 10px 0 40px 20px;"/>
-
 ## 🎩 Sobre mí
+
+<table>
+<tr>
+<td width="70%" valign="middle">
 
 Soy **Javier Armando Sánchez Carrero**, estudiante de **Análisis y Desarrollo de Software (ADSO)** en Bucaramanga, Santander, y desarrollador web **Full-Stack**.
 
 Me dedico a la creación de **interfaces de usuario accesibles**, respaldadas por **arquitecturas de backend sólidas y eficientes**. Como todo buen ingeniero de la era del vapor, disfruto desarmar sistemas, entender sus engranajes internos y volver a ensamblarlos de forma más segura y eficiente — por eso mi interés particular gira en torno a la **ciberseguridad**.
 
-<br clear="right"/>
+</td>
+<td width="30%" align="center" valign="middle">
+
+<img src="./sq.gif" width="100%" alt="engranaje decorativo"/>
+
+</td>
+</tr>
+</table>
 
 ---
 
